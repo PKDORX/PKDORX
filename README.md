@@ -1,38 +1,68 @@
+---------------
 ```csharp
 
 > Wellcome To My GitHub : 👋
 
 ```
 
+
 <p aling="center">
 	<a aling="left">
-		<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=PKDORX&theme=midnight-purple&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=psauxx&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"/>
+		<img align="right" width="325" src="https://github-readme-stats.vercel.app/api?username=PKDORX&theme=midnight-purple&show_icons=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=psauxx&amp;show_icons=true&amp;theme=radical" style="max-width: 150%;"/>
 	</a>
 </p>
 
 ```csharp
+Description:
 
-
-> RECEBA : rer
-AQUI EO PAULO
-BALA NO RECISTA
-
+> Name: PkdorX
+> Developer: Cheat
+> language: pt-br
 
 ```
+---------------
+
 <p aling="center">
-	<a aling="left">
-		<img align="left" width="150" src="https://cdn.discordapp.com/icons/882412447313588254/5a99696c31d74fd3e26ac321a0e2bddc.png?size=2048" style="max-width: 100%;"/>
+	<a aling="right">
+		<img align="right" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 	</a>
 	<a aling="right">
-		<img align="higth" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-	</a>
-	
-</p>
+		<img align="right" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+		</a>
+	<a aling="right">
+		<img align="right" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+		</a>
+	<a aling="right">
+		<img align="right" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" 
+		</a>
+	<a aling="right">
+		<img align="right" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+		</a>
+	<a aling="left">
+  <a href="https://discord.gg/jp5Kf5EaDA">
+      <img src="https://img.shields.io/badge/DISCORD-gray.svg?colorA=655BE1&colorB=3c72ff&style=for-the-badge"/>
+    </a
+	  <a aling="left">
+  <a href="https://www.youtube.com/@PKDORX">
+      <img src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=655BE1&colorB=ff0000&style=for-the-badge"/>
+    </a
+	  <a aling="left">
+  <a href="https://ayo.so/pkdorx">
+      <img src="https://img.shields.io/badge/WEB-gray.svg?colorA=655BE1&colorB=8000FF&style=for-the-badge"/>
+    </a
+		</a>
+	</p>
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+
+
+
+
+
+
+
+
+
+
 
 	
 

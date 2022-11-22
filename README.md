@@ -12,17 +12,18 @@
 
 ```csharp
 
+
 > RECEBA : rer
 AQUI EO PAULO
 BALA NO RECISTA
 
 
 ```
-<p aling="low">
-	<a aling="higth">
+<p aling="center">
+	<a aling="left">
 		<img align="left" width="150" src="https://cdn.discordapp.com/icons/882412447313588254/5a99696c31d74fd3e26ac321a0e2bddc.png?size=2048" style="max-width: 100%;"/>
 	</a>
-	<a aling="left">
+	<a aling="right">
 		<img align="higth" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 	</a>
 	

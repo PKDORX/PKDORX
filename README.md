@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/PKDORX">
-  <img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=PKDORX&show_icons=true&text_color=ff00008&theme=transparent&include_all_commits=true&count_private=true" width="450" height="460"/>
+  <img align="center" width="300" src="https://github-readme-stats.vercel.app/api?username=PKDORX&show_icons=true&text_color=ff00008&theme=transparent&include_all_commits=true&count_private=true" width="450" height="460"/>
 </div> 
   
 ---

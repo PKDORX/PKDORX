@@ -19,10 +19,14 @@ BALA NO RECISTA
 ```
 <p aling="center">
 	<a aling="left">
-		<img align="left" width="300" src="https://cdn.discordapp.com/attachments/1040742081754316911/1044595892524687410/vecteezy_modern-and-luxury-letter-pk-initials-logo-design_5948149.jpg" style="max-width: 100%;"/>
+		<img align="left" width="150" src="https://cdn.discordapp.com/icons/882412447313588254/5a99696c31d74fd3e26ac321a0e2bddc.png?size=2048" style="max-width: 100%;"/>
 	</a>
+	<a aling="left">
+		<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+	</a>
+	
 </p>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />

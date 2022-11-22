@@ -5,7 +5,7 @@
 
 ```
 <p align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+ <a align="rigth" href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img src="https://cdn.discordapp.com/attachments/975703159982923848/998890107492909136/200w.gif" align="rigth" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
     </a>
  <a href="https://github.com/PKDORX">

@@ -1,4 +1,4 @@
-```c++
+```js
 
 > Wellcome To My GitHub!
 

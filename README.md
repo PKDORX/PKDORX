@@ -10,7 +10,7 @@
 	</a>
 </p>
 
-```bash
+```py
 
 > RECEBA
 AQUI EO PAULO

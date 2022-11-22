@@ -1,7 +1,7 @@
 <p align='left'>
-  ```bash
+ ```bash
 
-<b>Hi 👋, I'm PK</b><br>
+>Hi 👋, I'm PK
 
 ```
 

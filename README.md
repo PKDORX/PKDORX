@@ -1,4 +1,8 @@
+```bash
 
+> They fear the Slash!
+
+```
 
 <p aling="center">
 	<a aling="left">

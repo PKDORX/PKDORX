@@ -12,7 +12,7 @@
 
 ```py
 
-> RECEBA
+> RECEBA : rer
 AQUI EO PAULO
 BALA NO RECISTA
 

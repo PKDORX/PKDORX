@@ -3,7 +3,7 @@
 
 <div align="center">
   <a href="https://github.com/PKDORX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PKDORX=midnight-purple&show_icons=true&text_color=ff00008&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PKDORX&show_icons=true&text_color=ff00008&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PKDORX&layout=compact&langs_count=7&theme=dark"/>
 </div> 
   

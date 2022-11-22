@@ -1,9 +1,4 @@
 
- ```bash
-
-> Wellcome, My GitHub
-
-```
 
 <p aling="center">
 	<a aling="left">

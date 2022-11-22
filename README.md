@@ -4,8 +4,13 @@
 > Wellcome, My GitHub
 
 ```
+<p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img src="https://cdn.discordapp.com/attachments/975703159982923848/998890107492909136/200w.gif" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+    </a>
+ </p>
 <div align="right">
-   <img src="https://cdn.discordapp.com/attachments/975703159982923848/998890107492909136/200w.gif" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
+   
   <a href="https://github.com/PKDORX">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=PKDORX&show_icons=true&text_color=ff00008&theme=transparent&include_all_commits=true&count_private=true" width="250" height="260"/>
 </div> 

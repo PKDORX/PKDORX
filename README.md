@@ -4,7 +4,7 @@
 > Wellcome, My GitHub
 
 ```
-<p>
+<p alingn="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PKDORX&show_icons=true&text_color=ff00008&theme=transparent&include_all_commits=true&count_private=true" width="250" height="260">
   
  </p>
